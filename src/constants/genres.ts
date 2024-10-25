@@ -1,0 +1,17 @@
+export const genres = [
+  { label: 'Fantasy', value: 'fantasy' },
+  { label: 'Science Fiction', value: 'scifi' },
+  { label: 'Mystery', value: 'mystery' },
+  { label: 'Fairy Tale', value: 'fairytale' },
+  { label: 'Thriller', value: 'thriller' },
+  { label: 'Horror', value: 'horror' },
+  { label: 'Adventure', value: 'adventure' },
+  { label: 'Historical', value: 'historical' },
+  { label: 'Dystopian', value: 'dystopian' },
+  { label: 'Comedy', value: 'comedy' },
+  { label: 'Romance', value: 'romance' },
+  { label: 'Drama', value: 'drama' },
+  { label: 'Western', value: 'western' },
+  { label: 'Crime', value: 'crime' },
+  { label: 'Literary Fiction', value: 'literary' },
+];
